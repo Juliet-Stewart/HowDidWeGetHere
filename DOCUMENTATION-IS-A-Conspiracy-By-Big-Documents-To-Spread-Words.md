@@ -99,8 +99,11 @@ This data not only shows that a majority of people do not keep a diary, but the 
 
 ## Testing and Evaluating  
 ### Peer Evaluation
+The digital diary, whilst a relatively simple concept (though an interesting idea with a large audience), has great execution and fits its purpose well, making it very easy to write up thoughts simply. Compared with the functional requirements, the text interface is easy to use and provides a satisfactory amount of text formatting that adds needed feature depth. The saving feature seems to work, though I’m not sure where it saves to, and it does not seem like there is anything saved to the website (which also means no possible security breaches). As for the non-functional requirements, there are no stickers and I don’t believe colours either, though the mood feature is a cute alternative which is actually a really cool idea for a diary, and the previously mentioned text formatting is high quality enough to compensate. The concept of a night mode feature for a project like this is great, though it is a little too harsh and brown. Overall, The Amazing Digital Diary has a high quality final result with good UX and good scope, doing exactly what it aims to do in making it easier to write out thoughts digitally. - Maxi  
+
 ### Evaluation Of Issues  
-This project has little to no social issues. It is simple and focuses on individual creativity, not promoting any information that may upset viewers.
+This project has little to no social issues. It is simple and focuses on individual creativity, not promoting any information that may upset viewers.  
+
 ### Project Evaluation
 This project was...truly something. For starters, there really was NOT much time to work on such a project. Also, I didn't really have an understanding of anything related to css, html, or javascript, but more on that later. This is why I decided to use a tutorial as a base for my project. And despite the fact I'm aware this will hinder my mark, I don't have any regrets. I learnt a lot from the tutorial, and was able to get a well-functioning website together. I did get rid of the parts that I didn't want, and coloured it. So I kinda personalised it. I did as much as I could. Ultimately, I was able to submit a functioning project, which I consider a success. Also, I learnt a lot on my way, so I think I spent my time well.
 
